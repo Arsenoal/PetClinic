@@ -1,6 +1,6 @@
-package com.arsen.petclinic.service;
+package com.arsen.petclinic.service.pet;
 
-import com.arsen.petclinic.dao.PetDao;
+import com.arsen.petclinic.dao.pet.PetDao;
 import com.arsen.petclinic.model.Pet;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

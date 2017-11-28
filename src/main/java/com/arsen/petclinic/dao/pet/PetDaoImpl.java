@@ -1,7 +1,7 @@
-package com.arsen.petclinic.dao;
+package com.arsen.petclinic.dao.pet;
 
 import com.arsen.petclinic.model.Pet;
-import com.arsen.petclinic.service.PetServiceImpl;
+import com.arsen.petclinic.service.pet.PetServiceImpl;
 import org.apache.log4j.Logger;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
